@@ -14,6 +14,24 @@
 33 years old oil-piping engineer from Ufa, Russia. Wants to change my career. Strongly interested in web development and Front-End.
 
 
+## My code sample
+
+```javascript
+function isIsogram(str){
+  arr = str.toLowerCase().split('').sort();
+  if (arr.length < 2) {
+    return true;
+  }
+  for (i = 0; i < arr.length - 2; i++) {
+    if (arr[i] === arr[i+1]) {
+      return false;
+    }
+  }
+  return true;
+}
+```
+
+
 ## Skills
 
 * Good in **HTML and CSS**
