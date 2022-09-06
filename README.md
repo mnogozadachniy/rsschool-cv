@@ -1,1 +1,1 @@
-https://mnogozadachniy.github.io/rsschool-cv/cv
+https://mnogozadachniy.github.io/rsschool-cv/
